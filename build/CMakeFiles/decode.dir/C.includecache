@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Desktop/cw3-cs0019-bit-lzw-abcristian-master/src/comp0019lib.h
+
+/home/user/Desktop/cw3-cs0019-bit-lzw-abcristian-master/src/decode.c
+stdio.h
+-
+decomp0019.h
+/home/user/Desktop/cw3-cs0019-bit-lzw-abcristian-master/src/decomp0019.h
+
+/home/user/Desktop/cw3-cs0019-bit-lzw-abcristian-master/src/decomp0019.h
+stdio.h
+-
+comp0019lib.h
+/home/user/Desktop/cw3-cs0019-bit-lzw-abcristian-master/src/comp0019lib.h
+
